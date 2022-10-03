@@ -8,8 +8,6 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
 
     override fun onNewToken(token: String) {
         super.onNewToken(token)
-
-        Log.d("tag","fcm token1:$token")
     }
 
 
