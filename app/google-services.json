@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438472172366",
+    "project_id": "android-ci-cd-a2b46",
+    "storage_bucket": "android-ci-cd-a2b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438472172366:android:c1ec27a1611da7a35bb41f",
+        "android_client_info": {
+          "package_name": "com.shakircam.flowtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438472172366-hidsf7s8o5t9olmcjlc1m7b27gcd0iu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHNIqL3Q6HyGlrb6LM1zOZvwCQNlHlI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438472172366-hidsf7s8o5t9olmcjlc1m7b27gcd0iu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
