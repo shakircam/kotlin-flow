@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-
         observeData()
 
     }
@@ -59,11 +58,11 @@ class MainActivity : AppCompatActivity() {
         lifecycleScope.launchWhenStarted {
             mainViewModel.stateFlow.collectLatest {
                  binding.stateFlowTx.text = it
-             /*   Snackbar.make(
+                Snackbar.make(
                     binding.root,
                     it,
                     Snackbar.LENGTH_LONG
-                ).show()*/
+                ).show()
             }
         }
 
