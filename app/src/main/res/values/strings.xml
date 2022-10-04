@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FlowTest</string>
+    <string name="flow">flow test</string>
 </resources>
